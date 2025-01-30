@@ -1,19 +1,62 @@
-**Análise de Campanhas de Marketing com Tabelas Dinâmicas no Excel**
+📊 **Análise de Campanhas de Marketing no Excel**
 
-📌**Descrição do Projeto**
+📌 **Apresentação do Projeto**
 
-Este projeto tem como objetivo calcular e analisar indicadores de desempenho para campanhas de marketing realizadas via Google Ads ao longo do ano de 2022 para uma empresa de educação.
+Este projeto consiste em um estudo sobre KPIs na área de marketing, utilizando o Excel para análise de desempenho de campanhas realizadas via Google Ads ao longo do ano de 2022 para uma empresa de educação. 
 
-📊**Objetivos**
+🎯 **Objetivo do Projeto**
 
-Calcular indicadores-chave para análise de desempenho dos anúncios.
+O principal objetivo é calcular e analisar indicadores-chave de desempenho (KPIs) para compreender o impacto dos anúncios e identificar quais segmentos etários apresentam menor retorno sobre investimento (ROI). 
 
-**1) CTR** = Percentual de clique no anúncio por exibição
-**2) CPC** = Custo por clique (valor investido / qte de cliques)
-**3) Receita** = Qte de vendas X preço do produto.
-**4) CAC** = Custo de Aquisição (valor investido / qte de vendas
-**5) ROI** = Retorno do investimento =>  (Receita - Investimento) / Investimento
+📊 **Indicadores Utilizados**
 
-🔍** Análises Realizadas**
-Após o cálculo dos indicadores, foi realizada a identificação das faixas etárias com menor desempenho em termos de ROI. O gestor de marketing deseja compreender em quais segmentos etários os anúncios tiveram ROI abaixo de 2, para otimizar futuras campanhas.
+A análise é baseada nos seguintes indicadores:
+
+- CTR (Click-Through Rate) - Percentual de cliques por exibição do anúncio.
+
+- CPC (Custo por Clique) - Valor investido dividido pelo número de cliques.
+
+- Receita - Multiplicação entre a quantidade de vendas e o preço do produto (R$ 300,00).
+
+- CAC (Custo de Aquisição de Cliente) - Valor investido dividido pelo número de vendas.
+
+- ROI (Retorno sobre Investimento) - (Receita - Investimento) / Investimento.
+
+Após calcular os indicadores, buscamos identificar quais anúncios tiveram ROI abaixo de 2 e quais faixas etárias foram mais afetadas por essa baixa performance.
+
+📂 **Estrutura dos Dados**
+
+Os dados analisados incluem as seguintes informações:
+
+- ID do Anúncio
+
+- Data
+
+- Campanha
+
+- Faixa Etária
+
+- Gênero
+
+- Quantidade de Exibições do Anúncio
+
+- Quantidade de Cliques
+
+- Valor Investido
+
+- Quantidade de Vendas
+
+
+📈**Metodologia e Ferramentas Utilizadas**
+
+Para a construção da análise, utilizei:
+
+- Microsoft Excel para organização e processamento dos dados.
+
+- Tabelas Dinâmicas para sumarização e exploração dos dados.
+
+
+🔍 **Resultados Esperados**
+
+Este estudo foi desenvolvido com foco na compreensão de KPIs essenciais para análise de dados e no uso do Excel para essa função. Os insights gerados nessa análises auxiliam na identificação de padrões de investimento, contribuindo para campanhas futuras mais estratégicas e eficientes.
 
